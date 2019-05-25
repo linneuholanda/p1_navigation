@@ -22,7 +22,7 @@ The task is episodic, and in order to solve the environment, your agent must get
 
 ### Dependencies
 
-Set up your python environment for this project following the instructions bellow.
+Set up your python environment for this project following the instructions below.
 
 1. Create and activate a new environment with Python 3.6.
 
